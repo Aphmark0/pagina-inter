@@ -1261,23 +1261,13 @@ align-items:center;
 
 justify-content:center;
 
-min-width:240px;
+min-width:320px;
 
 text-align:center;
 
 box-shadow:0 6px 20px rgba(255,122,0,.3);
 
-}
-
-/* MOBILE */
-
-@media(max-width:768px){
-
-.hero-buttons a{
-
-flex-direction:column;
-
-text-align:center;
+margin-top:8px;
 
 }
 
